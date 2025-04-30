@@ -76,4 +76,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## Auteurs
 
-- **Tbasdev57** - Développeur principal
+- **Développé Par Tayyib
